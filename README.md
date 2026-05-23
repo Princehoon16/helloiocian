@@ -99,7 +99,7 @@ php artisan key:generate
 Update `.env` file:
 
 ```env
-DB_DATABASE=smartemployee
+DB_DATABASE=helloiocian
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -142,7 +142,7 @@ The objective of SmartEmployee is to provide a scalable and modern employee mana
 Prince Hoon
 
 - GitHub: https://github.com/Princehoon16
-- LinkedIn: Add Your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/princehoon
 
 ---
 
