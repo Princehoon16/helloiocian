@@ -45,19 +45,19 @@ The platform helps organizations efficiently manage employees, departments, atte
 
 ## Welcome Page
 
-![Welcome Page](screenshots/welcome.png)
+![Welcome Page](welcomedashboard.png)
 
 ---
 
 ## Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
 ## Employee Management
 
-![Employees](screenshots/employees.png)
+![Employees](employee.png)
 
 ---
 
